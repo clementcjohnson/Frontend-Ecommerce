@@ -1,3 +1,3 @@
 ### Frontend-Ecommerce
 
-- [ ] this is an incomplete item
+- [ ] this is an incomplete project
